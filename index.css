@@ -6,6 +6,16 @@
 html{
     font-size: 62.5%;
 }
+main{
+    width: 100%;
+    height: 100%;
+}
+section{
+    width: 70%;
+    background-color: chocolate;
+    padding: 10px;
+    margin: 0 auto;
+}
 h1{
     color: cadetblue;
     font-size: 3rem;
